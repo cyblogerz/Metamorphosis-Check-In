@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "262254007287",
+    "project_id": "metareg",
+    "storage_bucket": "metareg.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262254007287:android:dc0c81a20c224b9a7714f2",
+        "android_client_info": {
+          "package_name": "com.example.metamorphosis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "262254007287-j9a4sv0a2rkceee1fvu5dksjihu4lj4t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4oJFT7siHhKh2u3Ms4ywIa4CfDCyatpM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "262254007287-j9a4sv0a2rkceee1fvu5dksjihu4lj4t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
